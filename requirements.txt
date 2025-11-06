@@ -1,0 +1,5 @@
+requests
+discord
+asyncio
+colorama
+console
